@@ -5,6 +5,7 @@
 double Finalcalc(double current_grade, double weight_of_final, double desired_grade,double *exam_grade);
 
 int main () {
+
 	double current_grade, weight_of_final, desired_grade, max_grade, exam_grade;
 
 	printf("Enter current grade: ");
