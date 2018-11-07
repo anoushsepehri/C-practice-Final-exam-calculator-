@@ -21,10 +21,9 @@ int main () {
 	
 	if (exam_grade<100)
 		printf("Exam grade needed is %.2f percent\n", exam_grade);
-
 	else
 		printf("Grade is not possible to achieve. Max grade is %.2f\n",max_grade);
-	
+
 	system("pause");
 	return 0;
 }
