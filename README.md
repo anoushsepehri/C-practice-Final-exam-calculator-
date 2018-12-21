@@ -1,1 +1,1 @@
-C software practice
+Final Exam Calculator written in C to practice
